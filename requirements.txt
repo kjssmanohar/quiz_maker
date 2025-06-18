@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+python-pptx
+requests
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+google.generativeai
